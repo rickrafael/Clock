@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(55, 55, 55);
+  
+}
+
+.clock-container{
+  font-size: 4em;
+  text-align: center;
+  margin: 200px auto;
+  color: white;
+  font-family: 'Handjet', cursive;
+}
+
+.clock-container span{
+  padding: 25px;
+  background-color: rgb(64, 150, 203);
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.51);
+}
