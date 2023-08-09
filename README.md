@@ -16,5 +16,5 @@ Relógio Digital desenvolvido com HTML, CSS e Java Script, utilizando conceitos 
 ## 🛠 Habilidades
 HTML5, CSS3, Java Script.
 
-⚡ Acesse meu projeto "Relógio Digital" <a >Clicando Aqui !</a>
+⚡ Acesse meu projeto "Relógio Digital" <a href ="https://rickrafael.github.io/Clock/">Clicando Aqui !</a>
 ⚡
